@@ -1,0 +1,23 @@
+{
+  "name": "navigus-backend",
+  "version": "1.0.0",
+  "description": "navigus-backend",
+  "main": "aws-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-dhiru/navigus-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant-dhiru/navigus-backend/issues"
+  },
+  "homepage": "https://github.com/prashant-dhiru/navigus-backend#readme",
+  "dependencies": {
+    "moment": "^2.26.0",
+    "socket.io": "^2.3.0"
+  }
+}
