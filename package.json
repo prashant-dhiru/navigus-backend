@@ -18,6 +18,6 @@
   "homepage": "https://github.com/prashant-dhiru/navigus-backend#readme",
   "dependencies": {
     "moment": "^2.26.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
